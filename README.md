@@ -72,7 +72,7 @@ bash
     json
     `{
         "name": "bubby",
-        "email": "xyz@example.com",
+        "email": "abc@example.com",
         "phone_number": "123-456-7890"
     }` 
     
@@ -93,7 +93,7 @@ bash
     json
     `{
         "name": "bubby",
-        "email": "xyz@example.com",
+        "email": "abc@example.com",
         "phone_number": "987-654-3210"
     }` 
     
