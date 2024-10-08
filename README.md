@@ -71,8 +71,8 @@ bash
     
     json
     `{
-        "name": "John Doe",
-        "email": "john@example.com",
+        "name": "bubby",
+        "email": "xyz@example.com",
         "phone_number": "123-456-7890"
     }` 
     
@@ -80,7 +80,7 @@ bash
     
     json
     `{
-        "message": "User John Doe, ID {id} saved successfully"
+        "message": "User bubby, ID {id} saved successfully"
     }` 
     
 3.  **Update an Existing User**:
@@ -92,8 +92,8 @@ bash
     
     json
     `{
-        "name": "Jane Doe",
-        "email": "jane@example.com",
+        "name": "bubby",
+        "email": "xyz@example.com",
         "phone_number": "987-654-3210"
     }` 
     
